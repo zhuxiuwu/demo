@@ -10,5 +10,6 @@ public class DataBase_Re4 {
         System.out.println(2);
         System.out.println(3+"master");
         System.out.println(3+"hotfix");
+        System.out.println("ssh");
     }
 }
